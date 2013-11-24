@@ -68,7 +68,7 @@
             <div class="loaded"></div> \
           </div> \
           <div class="time"> \
-            <em class="played">00:00</em>/<strong class="duration">00:00</strong> \
+            <span class="played">00:00</span><span class="duration">00:00</span> \
           </div> \
           <div class="error-message"></div>',
         playPauseClass: 'play-pause',
