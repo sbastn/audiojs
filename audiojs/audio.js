@@ -63,14 +63,16 @@
             <p class="loading"></p> \
             <p class="error"></p> \
           </div> \
-          <div class="scrubber"> \
-            <div class="progress"></div> \
-            <div class="loaded"></div> \
-          </div> \
-          <div class="time"> \
-            <span class="played">00:00</span><span class="duration">00:00</span> \
-          </div> \
-          <div class="error-message"></div>',
+          <div class="error-message"></div> \
+          <div class="timeline"> \
+            <div class="time"> \
+              <span class="played">00:00</span><span class="duration">00:00</span> \
+            </div> \
+            <div class="scrubber"> \
+              <div class="progress"></div> \
+              <div class="loaded"></div> \
+            </div> \
+          </div>',
         playPauseClass: 'play-pause',
         scrubberClass: 'scrubber',
         progressClass: 'progress',
